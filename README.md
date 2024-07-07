@@ -1,3 +1,13 @@
+###Hi there 👋, my name is Mirko Rossi, Data Analyst 
+
+About me
+I have been exposing to Data moinsets since university when i studied Industrial Biotechnologies. As I got my M.Sc. degree in 2015 I have been spreading scientific culture in museums and schools. I have worked with secondary school students at school and online. I currently work for GoStudent.org and Preply.com helping students. I am also founder of Abacus, an association spreading science through gamification. You can find a comprehensive resume here or vosot my LinkedIn page.
+
+Project
+After I enroll Start2Impaxt university on 2022 I started upskilling in Data Analysis completing 7 projects. As follow the most relevant.
+
+SQL Project
+
 # Welcome to my GitHub page
 ###### New Readme file in progress
 <!--
