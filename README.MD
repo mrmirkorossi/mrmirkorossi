@@ -9,16 +9,16 @@ For any inquiries, please reach out to me on [Linkedin](https://www.linkedin.com
 
 ## Projects
 
-### [SQL PROJECT](https://github.com/mrmirkorossi/SQL)
+### - [SQL PROJECT](https://github.com/mrmirkorossi/SQL)
 Analysis travel danger notices from 2008 and 2016 issued by US Department of State, distributed in 13 tables.
 
-### [PYTHON WITH PANDAS PROJECT](https://github.com/mrmirkorossi/Python-with-Pandas)
+### - [PYTHON WITH PANDAS PROJECT](https://github.com/mrmirkorossi/Python-with-Pandas)
 Production of a catalogue of wines from small producers using a dataset of approximately 130,000 wines to start an e-commerce.
 
-### [TABLEAU PROJECT](https://github.com/mrmirkorossi/Tableau)
+### - [TABLEAU PROJECT](https://github.com/mrmirkorossi/Tableau)
 Measuring the ecological footprint of a vast list of foods using based on a work on Science.
 
-### [PYTHON AND TABLEAU](https://github.com/mrmirkorossi/Final-Project-DA)
+### - [PYTHON AND TABLEAU](https://github.com/mrmirkorossi/Final-Project-DA)
 Development of a dashboard that includes a strategy proposal and creation of user personas for a fictitious online general information newspaper.
 
 ## Tech Stack
