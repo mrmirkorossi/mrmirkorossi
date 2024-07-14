@@ -6,10 +6,11 @@ This page is dedicated to showcasing my current and future projects. I hope you 
 
 For any inquiries, please reach out to me on [Linkedin](https://www.linkedin.com/in/mrmirkorossi/).
 
-![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Postgres.png)
-
-![My Skills](https://skillicons.dev/icons?i=postgres,py,vscode)
-
+![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Postgres.jpg)
+![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Power BI.jpg)
+![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Python.jpg)
+![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Tabeleau.jpg)
+![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Visual Studio Code.jpg)
 
 #Project
 After I enroll Start2Impaxt university on 2022 I started upskilling in Data Analysis completing 7 projects. As follow the most relevant.
