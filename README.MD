@@ -5,7 +5,7 @@
 Hi, my name's Mirko Rossi, Junior Data Analyst. 
 I have experience teaching science and coding in SQL, Python, and Tableau. This page is dedicated to showcasing my current and future projects. I hope you find inspiration and enjoyment in my work.
 
-For any inquiries, please reach out to me on [Linkedin](https://www.linkedin.com/in/mrmirkorossi/) or to mrmirkorossi@gmail.com.
+- For any inquiries, please reach out to me on [Linkedin](https://www.linkedin.com/in/mrmirkorossi/) or to mrmirkorossi@gmail.com.
 
 ## Projects
 
