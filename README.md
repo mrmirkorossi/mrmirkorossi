@@ -8,6 +8,10 @@ For any inquiries, please reach out to me on [Linkedin](https://www.linkedin.com
 
 ![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Visual_Studio_Code_1.35_icon.png)
 
+<p align="center">
+  <img src="[https://link-alla-tua-immagine1.jpg](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Visual_Studio_Code_1.35_icon.png)" alt="Descrizione immagine 1" width="300" height="200">
+</p>
+
 #Project
 After I enroll Start2Impaxt university on 2022 I started upskilling in Data Analysis completing 7 projects. As follow the most relevant.
 
