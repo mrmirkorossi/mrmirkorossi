@@ -9,7 +9,7 @@ I have experience teaching science and coding in SQL, Python, and Tableau. This 
 
 ## Projects
 
-### [- SQL PROJECT](https://github.com/mrmirkorossi/SQL)
+- ### [- SQL PROJECT](https://github.com/mrmirkorossi/SQL)
 Analysis travel danger notices from 2008 and 2016 issued by US Department of State, distributed in 13 tables.
 
 ### [- PYTHON WITH PANDAS PROJECT](https://github.com/mrmirkorossi/Python-with-Pandas)
