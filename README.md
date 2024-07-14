@@ -6,7 +6,7 @@ This page is dedicated to showcasing my current and future projects. I hope you 
 
 For any inquiries, please reach out to me on [Linkedin](https://www.linkedin.com/in/mrmirkorossi/).
 
-![Alt](/mrmirkorossi/blob/a60a3ee918821bb6858355d421cd95ca1e99bf0e/Visual_Studio_Code_1.35_icon.png?raw=true)
+![Alt](/mrmirkorossi/blob/a60a3ee918821bb6858355d421cd95ca1e99bf0e/Visual_Studio_Code_1.35_icon.png)
 
 #Project
 After I enroll Start2Impaxt university on 2022 I started upskilling in Data Analysis completing 7 projects. As follow the most relevant.
