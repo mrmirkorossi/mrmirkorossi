@@ -18,7 +18,7 @@ Production of a catalogue of wines from small producers using a dataset of appro
 - ### [TABLEAU PROJECT](https://github.com/mrmirkorossi/Tableau)
 Measuring the ecological footprint of a vast list of foods using based on a work on Science.
 
-- ### [PYTHON AND TABLEAU](https://github.com/mrmirkorossi/Final-Project-DA)
+- ### [PYTHON AND TABLEAU FINAL PROJECT](https://github.com/mrmirkorossi/Final-Project-DA)
 Development of a dashboard that includes a strategy proposal and creation of user personas for a fictitious online general information newspaper.
 
 ## Tech Stack
