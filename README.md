@@ -6,7 +6,7 @@ This page is dedicated to showcasing my current and future projects. I hope you 
 
 For any inquiries, please reach out to me on [Linkedin](https://www.linkedin.com/in/mrmirkorossi/).
 
-![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Visual_Studio_Code_1.35_icon.png)
+![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Postgres.png)
 
 ![My Skills](https://skillicons.dev/icons?i=postgres,py,vscode)
 
