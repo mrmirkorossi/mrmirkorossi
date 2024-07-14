@@ -1,9 +1,14 @@
-###Hi there 👋, my name is Mirko Rossi, Data Analyst 
+#### Welcome to my GitHub page 
 
-About me
-I have been exposing to Data moinsets since university when i studied Industrial Biotechnologies. As I got my M.Sc. degree in 2015 I have been spreading scientific culture in museums and schools. I have worked with secondary school students at school and online. I currently work for GoStudent.org and Preply.com helping students. I am also founder of Abacus, an association spreading science through gamification. You can find a comprehensive resume here or vosot my LinkedIn page.
+#About me
+Hi, my name's Mirko Rossi, Junior Data Analyst. I have experience teaching science and coding in SQL, Python, and Tableau. 
+This page is dedicated to showcasing my current and future projects. I hope you find inspiration and enjoyment in my work.
 
-Project
+For any inquiries, please reach out to me on [Linkedin](https://www.linkedin.com/in/mrmirkorossi/).
+
+![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/a60a3ee918821bb6858355d421cd95ca1e99bf0e/Visual_Studio_Code_1.35_icon.png?raw=true)
+
+#Project
 After I enroll Start2Impaxt university on 2022 I started upskilling in Data Analysis completing 7 projects. As follow the most relevant.
 
 SQL Project
