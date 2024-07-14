@@ -9,7 +9,7 @@ For any inquiries, please reach out to me on [Linkedin](https://www.linkedin.com
 ![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Postgres.jpg)
 ![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/PowerBI.jpg)
 ![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Python.jpg)
-![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Tabeleau.jpg)
+![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Tableau.jpg)
 ![Alt](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Visualstudiocode.jpg)
 
 #Project
