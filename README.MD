@@ -18,7 +18,7 @@ I employed **Python** and its graphical libraries to create a catalogue for smal
 I summarized a comprehensive study published in Science on CO2 emissions related to the production of plant-based and animal-based food using **Tableau**. This project demonstrates the use of data visualization to present impactful environmental insights.
 
 - ### [Data-driven Strategy Proposal for a Fictitious Online Newspaper](https://github.com/mrmirkorossi/Final-Project-DA)
-I developed a dashboard that includes a strategy proposal and user personas for a fictitious online general information newspaper. This project combined **Python and Tableau** skills to create a comprehensive analytical solution.
+I developed a dashboard with KPIs that includes a strategy proposal and user personas for a fictitious online general information newspaper. This project combined **Python and Tableau** skills to create a comprehensive analytical solution.
 
 ## Tech Stack
 
