@@ -20,6 +20,9 @@ I summarized a comprehensive study published in Science on CO2 emissions related
 - ### [Data-driven Strategy Proposal for a Fictitious Online Newspaper](https://github.com/mrmirkorossi/Final-Project-DA)
 I developed a dashboard with KPIs that includes a strategy proposal and user personas for a fictitious online general information newspaper. This project combined **Python and Tableau** skills to create a comprehensive analytical solution.
 
+- ### [Analysis of an Affiliate Program](https://github.com/mrmirkorossi/Excel-Advanced)
+I conducted an analysis of an affiliate program focused on reducing food waste. Using Excel, I identified the key columns from which to extract information for marketing communications. I applied advanced formulas and constructed pivot tables to provide comprehensive insights into the program's performance.
+
 ## Tech Stack
 
 ![Postgres](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Postgres.jpg)
