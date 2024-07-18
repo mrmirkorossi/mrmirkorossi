@@ -27,10 +27,3 @@ I developed a dashboard that includes a strategy proposal and user personas for 
 ![Tableau](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Tableau.jpg)
 ![PowerBI](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/PowerBI.jpg)
 ![Visual Studio Code](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Visualstudiocode.jpg)
-
-
-<img src="https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Postgres.jpg" alt="Postgres" />
-<img src="https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Python.jpg" alt="Python" />
-<img src="https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Tableau.jpg" alt="Tableau" />
-<img src="https://github.com/mrmirkorossi/mrmirkorossi/blob/main/PowerBI.jpg" alt="PowerBI" />
-<img src="https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Visualstudiocode.jpg" alt="Visual Studio Code" />
