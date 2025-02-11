@@ -23,6 +23,9 @@ I developed a dashboard with KPIs that includes a strategy proposal and user per
 - ### [Analysis of an Affiliate Program](https://github.com/mrmirkorossi/Excel-Advanced)
 I conducted an analysis of an affiliate program focused on reducing food waste. Using **Excel**, I identified the key columns from which to extract information for marketing communications. I applied advanced formulas and constructed pivot tables.
 
+- ### [YouTube Market Insights for Media Expansion Project](https://public.tableau.com/app/profile/mirko.rossi/viz/FinalDataAnalysisBooleanProject/Story)
+I conducted an in-depth analysis of YouTube to provide key insights for a media company launching its own channel. I explored top-performing channels, revenue trends, category leaders, and global distribution patterns using Tableau. The analysis, performed inPython, involved data cleaning, integration, and validation to ensure accuracy and reliability.
+
 ## Tech Stack
 
 ![Postgres](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Postgres.jpg)
