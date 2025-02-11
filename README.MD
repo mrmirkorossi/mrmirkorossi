@@ -4,6 +4,7 @@
 
 Hi, I'm **Mirko Rossi**, a Junior Data Analyst with a passion for teaching science and coding. I specialize in **SQL**, **Python**, and **Tableau**. This page showcases my current and future projects, reflecting my journey and growth in data analysis. I hope you find inspiration and enjoyment in my work.
 
+The repository of my visualizations is on [Tableau Public](https://public.tableau.com/app/profile/mirko.rossi/vizzes).
 For any inquiries, please reach out to me on [LinkedIn](https://www.linkedin.com/in/mrmirkorossi/) or via email at mrmirkorossi@gmail.com.
 
 ## Projects
